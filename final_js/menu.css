@@ -1,0 +1,13 @@
+.items .item {
+    background: transparent;
+    color: white;
+    border: none;
+}
+
+.cart_items .item {
+    background: transparent;
+    color: white;
+    border: none;
+    padding: 0px !important;
+    margin: 0px !important;
+}
